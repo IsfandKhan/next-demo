@@ -6,6 +6,10 @@ This project demonstrates all required filters in a single Next.js 14 App Router
 2. PostGIS geofence check via Prisma `$queryRaw` + `ST_Contains`
 3. Real-time cross-tab counter update using Socket.io
 
+## Demo subdomains:
+
+acme, globex
+
 ## Stack
 
 - Next.js `14.2.5` (App Router)
